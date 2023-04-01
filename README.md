@@ -13,7 +13,10 @@ This is the official repository for the website of Hoperise, a non-profit websit
    </p>
 
 <h2>Features</h2>
-
+<li><b>Home page:</b> Contains a welcome message, a donation option, details about upcoming events, and a form to become a volunteer.</li>
+<li><b>About page:</b> Contains information about the website, including testimonies from users and details about team members.</li>
+<li><b>Blog page:</b> Contains regular blog updates on a variety of topics related to hope and positivity.</li>
+<li><b>Contact page:</b> Contains contact information and an option to sign up for a newsletter to stay up-to-date on the latest news and updates.</li>
 
 <h2>Project Structure</h2><br/>
 <ul>The project is organized into the following directories:
