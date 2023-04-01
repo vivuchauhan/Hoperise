@@ -37,3 +37,12 @@ This is the official repository for the website of Hoperise, a non-profit websit
 
 <h2>Conclusion</h2>
 By the end of this project, you will have gained valuable experience in building a React.js web application from scratch and some of the UI elements may not display correctly on smaller screens. However, we plan to address this in future updates.
+
+<h4>Team Member</h4>
+<li>Vivek Chauhan</li>
+<li>Vishal Kumar</li>
+<li>Jaideep Kumar Thakur</li>
+<li>Nitish Kumar</li>
+<li>Astha kumari</li>
+
+<h4>Please visit our [Hoperise](https://hoperise.netlify.app/)</h4>
